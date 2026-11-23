@@ -1,0 +1,5 @@
+*.MOV
+screenshot_*.png
+serve.ps1
+.DS_Store
+Thumbs.db
